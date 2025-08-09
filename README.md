@@ -1,6 +1,6 @@
-# QABuddy v0.1
+# KnowQA v0.1
 
-QABuddy — Telegram-бот, который помогает готовиться к собеседованиям на позицию QA Engineer.
+KnowQA — Telegram-бот, который помогает готовиться к собеседованиям на позицию QA Engineer.
 
 ## ⚙️ Функции
 
